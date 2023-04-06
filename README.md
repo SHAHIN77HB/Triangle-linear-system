@@ -1,2 +1,2 @@
 # Triangle-linear-system
-This codes solve systems with upper or lower triangle matrix as coefficient matrix 
+This codes solve systems with upper or lower triangle matrix as coefficient matrix , with Forward and Backward substitiution
